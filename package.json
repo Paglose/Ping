@@ -1,0 +1,23 @@
+{
+  "name": "Ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paglose/Ping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paglose/Ping/issues"
+  },
+  "homepage": "https://github.com/Paglose/Ping#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
