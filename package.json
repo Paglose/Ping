@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Paglose/Ping#readme",
   "dependencies": {
+    "@types/node": "^14.14.7",
     "discord.js": "^12.4.1"
   }
 }
